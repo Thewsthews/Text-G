@@ -2,13 +2,10 @@
 
 # Lua Text Adventure Game
 
-![thumb-1920-296799](https://github.com/user-attachments/assets/4dcefa29-08c9-4e38-937c-d7e00bfda672)
-
-
 ## Description 🗒️
 A simple text-based adventure game written in Lua where players explore rooms, collect items, and face challenges. Navigate through different rooms, manage your inventory, and try to collect treasure while maintaining your health.
 
-## Features
+## Features👾
 - 3 unique rooms to explore
 - Item collection and inventory management
 - Health system
