@@ -1,6 +1,6 @@
 # Text-G 🌙
 
-# Lua Text Adventure Game
+# Lua Text Adventure Game 🎱
 
 ## Description 🗒️
 A simple text-based adventure game written in Lua where players explore rooms, collect items, and face challenges. Navigate through different rooms, manage your inventory, and try to collect treasure while maintaining your health.
