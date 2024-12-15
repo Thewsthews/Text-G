@@ -5,7 +5,7 @@
 ## Description 🗒️
 A simple text-based adventure game written in Lua where players explore rooms, collect items, and face challenges. Navigate through different rooms, manage your inventory, and try to collect treasure while maintaining your health.
 
-## Features👾
+## Features 👾
 - 3 unique rooms to explore
 - Item collection and inventory management
 - Health system
@@ -14,7 +14,7 @@ A simple text-based adventure game written in Lua where players explore rooms, c
 - Simple command interface
 
 ## Requirements ⚙️
-- Lua 5.1 or higher 📈
+- Lua 5.1 or higher 📈 
 
 ## Installation ⚓
 1. Ensure Lua is installed on your system
@@ -22,3 +22,4 @@ A simple text-based adventure game written in Lua where players explore rooms, c
 3. Run the game using:
 ```bash
 lua adventure_game.lua
+```
