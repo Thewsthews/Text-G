@@ -14,12 +14,12 @@ A simple text-based adventure game written in Lua where players explore rooms, c
 - Simple command interface
 
 ## Requirements ⚙️
-- Lua 5.1 or higher 📈 
+- Lua 5.1 or better 📈 
 
 ## Installation ⚓
 1. Ensure Lua is installed on your system
 2. Download the game file (`adventure_game.lua`)
 3. Run the game using:
 ```bash
-lua adventure_game.lua
+lua adventure_game.lua 
 ```
