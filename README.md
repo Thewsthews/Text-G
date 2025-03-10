@@ -23,4 +23,5 @@ A simple text-based adventure game written in Lua where players explore rooms, c
 ```bash
 lua adventure_game.lua 
 ```
+## Have fun!
 M1
