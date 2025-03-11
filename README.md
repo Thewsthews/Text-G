@@ -24,4 +24,6 @@ A simple text-based adventure game written in Lua where players explore rooms, c
 lua adventure_game.lua 
 ```
 ## Have fun!
+
+## Feel free to make a PR!
 M1
