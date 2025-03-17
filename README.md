@@ -25,6 +25,6 @@ lua adventure_game.lua
 ```
 ## Have fun!
 
-## Feel free to make a PR Con!
+## Feel free to make a PR Contribution!
 
 M1
